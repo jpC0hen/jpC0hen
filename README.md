@@ -9,14 +9,12 @@
 ## Who am I?
 I'm an environmental data scientist. But I have experience doing environmental work all over the country from field data collection, to GIS, to water monitoring, to nonprofit outreach. I love the process of coding and doing data scientist stuff (especially geospatial data), but to be honest my real scientific interest is entomology. Ultimately, I love learning new things!
 
-I'm originally from southern NJ, but I've worked all over the country, from my home state, to the Delmarva, to Colorado, to the Mojave Desert, to SoCal, eventually finding myself back in CO.
+I'm originally from southern NJ, but I've worked all over the country, from my home state, to the Delmarva, to Colorado, to the Mojave Desert, to SoCal, eventually finding myself back in my home state.
 
 Outside of work, you may find me aimlessly wandering around the wilderness or trying to write a new song on my guitar.
 
 ## What I'm currently up to?
-I'm interning with NPS's Natural Sounds and Night Skies Division, tasked with reorganizing and developing metadata for their bioacoustics database. You can find the [repo for that project here](https://github.com/silkieMoth/NPS_NSNSD_Bioacoustics_Reorganization).
-
-I recently graduated and recieved my masters in Environmental Data Science with the Bren School at UCSB. This was an enlightening time of my life where rapidly improved my programming skills, and even had the opportunity to TA for a few undergrad classes (Geography and Molecular Biology)! 
+I am currently in NJ, and am open to new opportunities! I am potentially interested in pursuing my PhD.
 
 ## Education
 * 🌴 UCSB - 2025 🌴
